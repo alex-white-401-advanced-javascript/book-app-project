@@ -47,3 +47,9 @@ DELETE:
 * What assertions were made?
 * What assertions need to be / should be made?
 
+### Collaborators
+* Joeseph Wolfe
+* Billy Bunn
+* Gregory Dukes
+* Chris Merrit
+* Vanessa Wei
